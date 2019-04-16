@@ -1,0 +1,5 @@
+#position [x,y,z]
+position: [0.600,-0.30,0.980]
+#orientation [qx,qy,qz,qw]
+#orientation: [-0.382683,0.92388,0,0]
+orientation: [-0.382319,0.923,0.0402991,-0.0166924]
